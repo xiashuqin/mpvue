@@ -1,6 +1,7 @@
 // 新增的页面122222222222222222
-import Vue from 'vue'
+// 又来一行
 import { parseFilters } from 'compiler/parser/filter-parser'
+import Vue from 'vue'
 
 describe('Filters', () => {
   it('basic usage', () => {
