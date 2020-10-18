@@ -1,5 +1,5 @@
 /* @flow */
-
+// 这里是我添加的
 import deindent from 'de-indent'
 import { parseHTML } from 'compiler/parser/html-parser'
 import { makeMap } from 'shared/util'
